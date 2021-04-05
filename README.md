@@ -1,1 +1,11 @@
 
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic1.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic2.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic3.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic4.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic5.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic6.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic7.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic8.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic9.png?raw=true)
+![amaazon Home Page](https://github.com/somadc/amaazon-app/blob/master/pic10.png?raw=true)
